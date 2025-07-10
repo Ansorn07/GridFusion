@@ -10,5 +10,3 @@
 - 🎯 Clear win/draw logic
 - 📱 Fully responsive on all screen sizes
 - 🔄 Easy reset functionality
-
-
